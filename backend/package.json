@@ -1,0 +1,25 @@
+{
+  "name": "gradicious",
+  "version": "1.0.0",
+  "description": "Gradicious - Create, Save and Maintain your grading records",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grade",
+    "gpa",
+    "absolute",
+    "gradicious"
+  ],
+  "author": "Muhammad Hashir Malik",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.5.1"
+  }
+}
